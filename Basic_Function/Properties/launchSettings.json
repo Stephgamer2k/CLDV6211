@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "Basic_Function": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7257",
+      "launchBrowser": false
+    }
+  }
+}
